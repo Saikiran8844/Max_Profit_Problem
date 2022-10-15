@@ -6,8 +6,11 @@ Mr. X owns a large strip of land in Mars Land. For the purposes of this problem 
 
 
 
-• A Theatre takes 5 units of time to build and covers 2x1 parcel of land.
-• A Pub takes 4 units of time to develop and covers 1x1 parcel of land.
-• A Commercial Park takes 10 units of time to build and covers 3x1 parcel of land Each period of time that a building is operational it earns him money.
+
+A Theatre takes 5 units of time to build and covers 2x1 parcel of land.
+
+A Pub takes 4 units of time to develop and covers 1x1 parcel of land.
+
+A Commercial Park takes 10 units of time to build and covers 3x1 parcel of land Each period of time that a building is operational it earns him money.
 
 ![source](./statement/Max_Profit_Problem.pdf)
